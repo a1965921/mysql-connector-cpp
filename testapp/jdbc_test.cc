@@ -52,7 +52,7 @@
 
 #define DEFAULT_URI "tcp://127.0.0.1"
 #define EXAMPLE_USER "root"
-#define EXAMPLE_PASS "123"
+#define EXAMPLE_PASS ""
 #define EXAMPLE_DB "test"
 
 using namespace std;
